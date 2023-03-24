@@ -1,4 +1,4 @@
-### Hello Coding Pals! 👋
+### Hello World! I'm Zeina 👋 
 
 <!--
 **zeina-saleh/zeina-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
