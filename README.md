@@ -1,4 +1,5 @@
 ### Hello World! I'm Zeina 👋 
+![image](https://user-images.githubusercontent.com/104276645/227648430-f434a7f7-a134-420e-b868-be421ff3e4ac.png)
 
 <!--
 **zeina-saleh/zeina-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
