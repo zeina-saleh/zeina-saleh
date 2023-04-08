@@ -1,0 +1,168 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #4CAF50;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 24px;
+    color: #666;
+    text-align: center;
+    margin-top: 30px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #39FF14;
+    margin: 50px 0px;
+}
+
+/* Animated bullet points */
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  li::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    /* border-radius: 50%; */
+    margin-right: 10px;
+    position: absolute;
+    left: -20px;
+    top: 6px;
+    background-color: #4CAF50; /* Change color as needed */
+    animation: bell 1s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.2);
+      opacity: 0.5;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+    }
+
+    60% {
+        transform: translateY(-10px);
+    }
+}
+@keyframes bell {
+    0% { rotate: 0deg; }
+    10% { rotate: 10deg; }
+    30% { rotate: -10deg; }
+    45% { rotate: 5deg; }
+    55% { rotate: -5deg; }
+    60% { rotate: 0deg; }
+}
+
+.icon {
+    font-size: 50px;
+    color: #4CAF50;
+    margin: 20px;
+    display: inline-block;
+    animation: pulse 1s infinite;
+}
+
+.currently-working {
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+.currently-working h2 {
+    font-size: 30px;
+    color: #4CAF50;
+    margin-top: 0px;
+}
+
+.currently-working ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.currently-working ul li {
+    margin: 10px 0px;
+    font-size: 20px;
+    color: #666;
+    line-height: 1.5;
+}
+
+.about-me {
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+.about-me h2 {
+    font-size: 30px;
+    color: #4CAF50;
+    margin-top: 0px;
+}
+
+.about-me p {
+    font-size: 20px;
+    color: #666;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.my-interests {
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+.my-interests h2 {
+    font-size: 30px;
+    color: #4CAF50;
+    margin-top: 0px;
+}
+
+.my-interests ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.my-interests ul li {
+    margin: 10px 0px;
+    font-size: 20px;
+    color: #666;
+    line-height: 1.5;
+}
