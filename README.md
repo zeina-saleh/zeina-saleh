@@ -25,35 +25,6 @@
         </ul>
     </div>
 
-    <hr class="section-divider">
-
-    <div class="about-me">
-        <h2>About Myself</h2>
-        <p>Hi there! I'm a Junior MERN Stack Developer based in [Your Location]. I recently graduated from LIU university and have been working on building my skills and experience since then. I love working
-            with the MERN stack and am constantly learning new things to improve my skills.</p>
-        <p>Aside from coding, I enjoy spending time outdoors, playing video games, and learning about new technologies.
-        </p>
-    </div>
-
-    <hr class="section-divider">
-
-    <div class="my-interests">
-        <h2>My Interests</h2>
-        <ul class="animated-bullets">
-            <li>Technology</li>
-            <li>Gaming</li>
-            <li>Hiking</li>
-            <li>Reading</li>
-            <li>Traveling</li>
-        </ul>
-    </div>
-
-    <div style="text-align:center;">
-        <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="React Gif"
-            style="width:200px;height:200px;">
-        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="MERN Stack Gif"
-            style="width:200px;height:200px;">
-    </div>
 </body>
 
 </html>
