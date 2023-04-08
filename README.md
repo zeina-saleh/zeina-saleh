@@ -1,6 +1,6 @@
 <h1 align="center" >Hello, I'm Zeina!</h1>
 <p>I'm a Junior MERN Stack Developer</p>
-<img src="resources/cipher.gif.mp4">
+<iframe src="https://giphy.com/embed/sNJhFCKVUOCdHtDPa7" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-sNJhFCKVUOCdHtDPa7">via GIPHY</a></p>
 <div align="center">
     <img src="resources/html5.svg" width="5%" alt="html5"><img src="resources/css3-alt.svg" width="5%" alt="css3"><img src="resources/square-js.svg" width="5%" alt="js"><img src="resources/node-js.svg" width="5%" alt="nodejs"><img src="resources/database-solid.svg" width="5%" alt="mongoDB">
 </div>
