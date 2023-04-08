@@ -4,7 +4,7 @@
 </head>
 
 <body>
-    <h1>Hello, I'm Zeina!</h1>
+    <h1 align="center" >Hello, I'm Zeina!</h1>
     <p>I'm a Junior MERN Stack Developer.</p>
     <div style="text-align:center;">
         <i class="fab fa-html5 icon"></i>
