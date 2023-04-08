@@ -25,7 +25,7 @@
         </ul>
     </div>
 
-    <hr class="section-divider">
+    <hr class="section-divider"/>
 
     <div class="about-me">
         <h2>About Myself</h2>
