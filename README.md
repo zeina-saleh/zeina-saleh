@@ -24,6 +24,7 @@
             <li>Practicing algorithms and data structures</li>
         </ul>
     </div>
+    <hr>
 
 </body>
 
