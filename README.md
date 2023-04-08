@@ -2,7 +2,7 @@
 <p>I'm a Junior MERN Stack Developer</p>
 
 <div align="center">
-    <img src="resources/html5.svg">
+    <img src="resources/html5.svg" width="5%" alt="html5">
     <i class="fab fa-css3-alt icon"></i>
     <i class="fab fa-js-square icon"></i>
     <i class="fab fa-react icon"></i>
