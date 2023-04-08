@@ -2,11 +2,7 @@
 <p>I'm a Junior MERN Stack Developer</p>
 
 <div align="center">
-    <img src="resources/html5.svg" width="5%" alt="html5">
-    <i class="fab fa-css3-alt icon"></i>
-    <i class="fab fa-js-square icon"></i>
-    <i class="fab fa-react icon"></i>
-    <i class="fab fa-node-js icon"></i>
+    <img src="resources/html5.svg" width="5%" alt="html5"><img src="resources/css3-alt.svg" width="5%" alt="css3"><img src="resources/square-js.svg" width="5%" alt="js"><img src="resources/node-js.svg" width="5%" alt="nodejs"><img src="resources/database-solid.svg" width="5%" alt="mongoDB">
 </div>
 <div class="currently-working">
   <h2>Currently Working On</h2>
