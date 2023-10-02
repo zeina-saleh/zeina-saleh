@@ -10,9 +10,8 @@
     <li>Stargazer, Late night driver, Adrenaline junkie</li>
   </ul>
 </div>
-<hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -40,15 +39,15 @@
   </a>
 </p>
 
-### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me
-<hr>
+<h2>Reach out & connect with me</h2>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/zeina-saleh-175610241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeina-saleh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zeina___saleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeina-saleh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeinaCodes?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeinaCodes" height="30" width="40" /></a>
 </p>
 
- <h2>My Stats</h2>
+<h2>My Stats</h2>
 
 [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
