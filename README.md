@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm Zeina Saleh</h1>
-<img align="center" src="./resources/intro-to-cloud.d49bc5f7.jpeg" width="100%" height="450" alt="coding">
+<img align="center" src="./resources/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294" width="100%" height="450" alt="coding">
 
 <div class="currently-working">
       <h2>About Me</h2>
