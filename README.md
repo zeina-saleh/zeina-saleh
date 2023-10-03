@@ -5,7 +5,7 @@
       <h2>About Me</h2>
   <ul class="animated-bullets">
     <li>B.Sc. in Computer Engineering from Lebanese International University (LIU) </li>
-    <li>Worked as a coding Educator at Innovators Academy Lebanon</li>
+    <li>Worked as a Coding Educator at Innovators Academy Lebanon</li>
     <li>Passionate about exploring new cultures and learning languages</li>
     <li>Stargazer, Late night driver, Adrenaline junkie</li>
   </ul>
