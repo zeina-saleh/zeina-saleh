@@ -7,7 +7,7 @@
     <li>B.Sc. in Computer Engineering from Lebanese International University (LIU) </li>
     <li>Worked as a Coding Educator at Innovators Academy Lebanon</li>
     <li>Passionate about exploring new cultures and learning languages</li>
-    <li>Stargazer, Late night driver, Adrenaline junkie</li>
+    <li>Stargazer, Swimmer, Adrenaline junkie</li>
   </ul>
 </div>
 
@@ -53,6 +53,7 @@
 [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeina-saleh/Thickduck/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeina-saleh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
