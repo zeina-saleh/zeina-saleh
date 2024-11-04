@@ -7,7 +7,7 @@
     <li>B.Sc. in Computer Engineering from Lebanese International University (LIU) </li>
     <li>Worked as a Coding Educator at Innovators Academy Lebanon</li>
     <li>Passionate about exploring new cultures and learning languages</li>
-    <li>Stargazer, Swimmer, Adrenaline junkie</li>
+    <li>Stargazer, Swimmer, Anime Watcher</li>
   </ul>
 </div>
 
